@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2089246051475886174",
+    "created_at": "2026-08-18T17:01:45.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089759669795647776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089759669795647776",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089666297097499072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 ww我喜欢麻子和喀秋莎喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2089246051475886174",
+        "created_at": "2026-08-18T17:01:45.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089759669795647776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089759669795647776",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089666297097499072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 ww我喜欢麻子和喀秋莎喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866114456411099137",
+        "conversation_id": "2089246051475886174",
+        "created_at": "2026-08-18T10:50:44.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089666297097499072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089225348814921728",
+              "start": 0,
+              "username": "yyyyume0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089666297097499072",
+        "in_reply_to_user_id": "2089225348814921728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089246051475886174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyume0527 哇偶还有少战"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中\n前世@magie0527\n同类互of大欢迎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089759669795647776",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 30,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "日本語勉強中\n趣味はバンドリ／声優\r/航空/鉄道/ミリーコス\n邦批/女声优痴/航空/轨道交通 以及尼龙\n男 各种精神病但是不割不o\nお推しは白金燐子、中島由貴\n\n声明声明我不是弱智低龄火车迷和飞友🤮，我只是喜欢轨交和航空",
+        "id": "1866114456411099137",
+        "is_identity_verified": false,
+        "location": "タルコフ市/塔科夫市",
+        "most_recent_tweet_id": "2089754311287079092",
+        "name": "りんこShirokane",
+        "pinned_tweet_id": "2089609423455232459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866114456411099137/1786743076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 546,
+          "like_count": 5142,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1493
+        },
+        "url": "",
+        "username": "rinko910409",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

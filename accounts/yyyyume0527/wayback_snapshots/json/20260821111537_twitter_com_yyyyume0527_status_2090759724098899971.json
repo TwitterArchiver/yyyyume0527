@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090698269940928552",
+    "created_at": "2026-08-21T11:15:37.000Z",
+    "display_text_range": [
+      28,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090759724098899971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081556791746588672",
+          "start": 0,
+          "username": "rockmanfly"
+        },
+        {
+          "end": 27,
+          "id": "1933855083634286592",
+          "start": 12,
+          "username": "kurokisama_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090759724098899971",
+    "in_reply_to_user_id": "2081556791746588672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090752036640051218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rockmanfly @kurokisama_TvT 可以，我摸摸你！抚摸抚摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090698269940928552",
+        "created_at": "2026-08-21T11:15:37.000Z",
+        "display_text_range": [
+          28,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090759724098899971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081556791746588672",
+              "start": 0,
+              "username": "rockmanfly"
+            },
+            {
+              "end": 27,
+              "id": "1933855083634286592",
+              "start": 12,
+              "username": "kurokisama_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090759724098899971",
+        "in_reply_to_user_id": "2081556791746588672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090752036640051218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rockmanfly @kurokisama_TvT 可以，我摸摸你！抚摸抚摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081556791746588672",
+        "conversation_id": "2090698269940928552",
+        "created_at": "2026-08-21T10:45:04.000Z",
+        "display_text_range": [
+          29,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090752036640051218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089225348814921728",
+              "start": 0,
+              "username": "yyyyume0527"
+            },
+            {
+              "end": 28,
+              "id": "1933855083634286592",
+              "start": 13,
+              "username": "kurokisama_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090752036640051218",
+        "in_reply_to_user_id": "2089225348814921728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090704901995442548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyume0527 @kurokisama_TvT 为什么不摸我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090759724098899971",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 49,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T01:48:36.000Z",
+        "description": "时长在内地，偶尔在大阪和清迈，Currently in Chiang Mai, Thailand, occasionally in Osaka.\nLooking for a companion\n現在はタイのチェンマイにいて、ときどき大阪にもいます\n仲間を探す",
+        "id": "2081556791746588672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090759042499322172",
+        "name": "Yi Huang",
+        "pinned_tweet_id": "2087110402589032682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081556791746588672/1785729423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081557941237456896/2hRylfzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 131,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "rockmanfly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T11:52:45.000Z",
+        "description": "前世@kuroki___tomoko\n💊/🔪🩸\n拙い日々 でもこれで良い",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "kuroki___tomoko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/VwLQTEXkzv"
+              }
+            ]
+          }
+        },
+        "id": "1933855083634286592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090741013036032082",
+        "name": "夢見の黒木",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933855083634286592/1787231913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090427865921916928/bprn5k0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 132,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/VwLQTEXkzv",
+        "username": "kurokisama_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

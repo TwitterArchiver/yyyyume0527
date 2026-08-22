@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090123678315122867",
+    "created_at": "2026-08-19T17:08:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090123678315122867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078478815500894208",
+          "start": 3,
+          "username": "2nvihl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090123678315122867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088670284014625139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2nvihl: ˚.𓏴♡𓏴 ₊˚这里小仪 07准大一 lesbian \n⊹˚ ip山东/黑龙江\n⊹˚心理类相关疾病非健全 💊🔪🚬\n⊹˚主播女孩重度依赖 Karina gedraji\n⊹˚ 精神不安定で口数の多い女^^\n˚ ✞ ˚˙欢迎同好宝贝互fo（会查成分^^ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088670265941295104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxyimZaAAA-wIY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088670265941368833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxyimZbIAExC1V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088670265941356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxyimZa8AAUBaF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090123678315122867",
+        "created_at": "2026-08-19T17:08:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090123678315122867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078478815500894208",
+              "start": 3,
+              "username": "2nvihl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090123678315122867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088670284014625139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2nvihl: ˚.𓏴♡𓏴 ₊˚这里小仪 07准大一 lesbian \n⊹˚ ip山东/黑龙江\n⊹˚心理类相关疾病非健全 💊🔪🚬\n⊹˚主播女孩重度依赖 Karina gedraji\n⊹˚ 精神不安定で口数の多い女^^\n˚ ✞ ˚˙欢迎同好宝贝互fo（会查成分^^ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088670265941295104",
+            "3_2088670265941368833",
+            "3_2088670265941356544"
+          ]
+        },
+        "author_id": "2078478815500894208",
+        "conversation_id": "2088670284014625139",
+        "created_at": "2026-08-15T16:52:55.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088670284014625139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUvuXogCJw",
+              "end": 147,
+              "expanded_url": "https://x.com/2nvihl/status/2088670284014625139/photo/1",
+              "media_key": "3_2088670265941295104",
+              "start": 124,
+              "url": "https://t.co/ZUvuXogCJw"
+            },
+            {
+              "display_url": "pic.x.com/ZUvuXogCJw",
+              "end": 147,
+              "expanded_url": "https://x.com/2nvihl/status/2088670284014625139/photo/1",
+              "media_key": "3_2088670265941368833",
+              "start": 124,
+              "url": "https://t.co/ZUvuXogCJw"
+            },
+            {
+              "display_url": "pic.x.com/ZUvuXogCJw",
+              "end": 147,
+              "expanded_url": "https://x.com/2nvihl/status/2088670284014625139/photo/1",
+              "media_key": "3_2088670265941356544",
+              "start": 124,
+              "url": "https://t.co/ZUvuXogCJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088670284014625139",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088670265941295104"
+          },
+          {
+            "media_key": "3_2088670265941368833"
+          },
+          {
+            "media_key": "3_2088670265941356544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4334,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "˚.𓏴♡𓏴 ₊˚这里小仪 07准大一 lesbian \n⊹˚ ip山东/黑龙江\n⊹˚心理类相关疾病非健全 💊🔪🚬\n⊹˚主播女孩重度依赖 Karina gedraji\n⊹˚ 精神不安定で口数の多い女^^\n˚ ✞ ˚˙欢迎同好宝贝互fo（会查成分^^ https://t.co/ZUvuXogCJw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中\n前世@magie0527\n同类互of大欢迎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090123678315122867",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 37,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T14:00:20.000Z",
+        "description": "貴方だけのものになりたい、離れないで\n记录负面日常什么都发｜🚬💊🩸\n同类天使宝贝直fo我喜欢你呀♡\n🚪30纯绿 52半绿 100非绿",
+        "id": "2078478815500894208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090123018190426307",
+        "name": "病み兎",
+        "pinned_tweet_id": "2088670284014625139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078478815500894208/1785744330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089088179643232256/fabhpjK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 122,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "2nvihl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

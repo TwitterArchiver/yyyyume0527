@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090739839465607649",
+    "created_at": "2026-08-21T11:35:38.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090764761332126008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090764761332126008",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090739839465607649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe 我的发🤯🤯怎么有这种医生好恶心呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090739839465607649",
+        "created_at": "2026-08-21T11:35:38.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090764761332126008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090764761332126008",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090739839465607649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe 我的发🤯🤯怎么有这种医生好恶心呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047879211168493568",
+        "conversation_id": "2090739839465607649",
+        "created_at": "2026-08-21T09:56:36.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090739839465607649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090739839465607649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 508,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想草飞那个医生啊越想越气\n我说想开吡唑坦他说没有\n我问有没有别的安眠药，他说你别吃😅\n这tm不是失眠门诊吗\n臭老登扫码了你全家都四万了\n去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090764761332126008",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 49,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "⊹ すすめ ⊹ 前世：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2090757909659713750",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2085446161243201959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 242,
+          "like_count": 377,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

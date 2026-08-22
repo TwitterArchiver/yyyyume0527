@@ -1,0 +1,20 @@
+{
+  "name": "夢夢夢夢梦2.0（互fo寻回）",
+  "username": "@yyyyume0527",
+  "bio": "=小梦2.0 互关寻回中。前世@magie0527 同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 25,
+        "start": 15,
+        "username": "magie0527"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg"
+}

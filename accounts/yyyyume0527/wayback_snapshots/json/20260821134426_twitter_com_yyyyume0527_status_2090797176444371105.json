@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090769366040330626",
+    "created_at": "2026-08-21T13:44:26.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090797176444371105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "449641629",
+          "start": 0,
+          "username": "licar1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090797176444371105",
+    "in_reply_to_user_id": "449641629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090769366040330626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@licar1949 太绅士了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2090769271660179456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPnk0CbcAA5eNR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090769366040330626",
+        "created_at": "2026-08-21T13:44:26.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090797176444371105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "449641629",
+              "start": 0,
+              "username": "licar1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090797176444371105",
+        "in_reply_to_user_id": "449641629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090769366040330626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@licar1949 太绅士了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090769271660179456"
+          ]
+        },
+        "author_id": "449641629",
+        "conversation_id": "2090769366040330626",
+        "created_at": "2026-08-21T11:53:56.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090769366040330626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPHueykB1f",
+              "end": 34,
+              "expanded_url": "https://x.com/licar1949/status/2090769366040330626/photo/1",
+              "media_key": "3_2090769271660179456",
+              "start": 11,
+              "url": "https://t.co/OPHueykB1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090769366040330626",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090769271660179456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子才是老大.jpg https://t.co/OPHueykB1f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090797176444371105",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 50,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T09:58:30.000Z",
+        "description": "我是菜菜，大号@bisco91395061 被害，寻回互关中🥹🥹！｜od自伤｜傻福精神病休学中｜LGBTQ🏳️‍🌈友好｜一般路过同人女｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "bisco91395061"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/himenonana",
+                "end": 23,
+                "expanded_url": "http://t.me/himenonana",
+                "start": 0,
+                "url": "https://t.co/PeMWnKgOVZ"
+              }
+            ]
+          }
+        },
+        "id": "449641629",
+        "is_identity_verified": false,
+        "location": "🚪52/188",
+        "most_recent_tweet_id": "2090789506173833597",
+        "name": "菜菜警官2.0（寻回互关）",
+        "pinned_tweet_id": "2086676463139561837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449641629/1786337077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 275,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/PeMWnKgOVZ",
+        "username": "licar1949",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

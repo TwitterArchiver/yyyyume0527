@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090053358195466240"
+      ]
+    },
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090053552043688140",
+    "created_at": "2026-08-19T12:29:32.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090053552043688140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/btYcj0w3YW",
+          "end": 53,
+          "expanded_url": "https://x.com/yyyyume0527/status/2090053552043688140/photo/1",
+          "media_key": "3_2090053358195466240",
+          "start": 30,
+          "url": "https://t.co/btYcj0w3YW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090053552043688140",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090053358195466240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家七夕快乐哇，感谢投喂！！\n不过我七夕一直在玩游戏啦哼哼 https://t.co/btYcj0w3YW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2090053358195466240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFcdKjaYAAgpnc.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090053358195466240"
+          ]
+        },
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090053552043688140",
+        "created_at": "2026-08-19T12:29:32.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090053552043688140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btYcj0w3YW",
+              "end": 53,
+              "expanded_url": "https://x.com/yyyyume0527/status/2090053552043688140/photo/1",
+              "media_key": "3_2090053358195466240",
+              "start": 30,
+              "url": "https://t.co/btYcj0w3YW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090053552043688140",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090053358195466240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家七夕快乐哇，感谢投喂！！\n不过我七夕一直在玩游戏啦哼哼 https://t.co/btYcj0w3YW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中\n前世@magie0527\n同类互of大欢迎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090053552043688140",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 36,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

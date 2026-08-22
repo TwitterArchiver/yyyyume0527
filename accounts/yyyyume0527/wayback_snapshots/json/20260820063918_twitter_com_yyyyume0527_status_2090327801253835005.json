@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090018329012711629",
+    "created_at": "2026-08-20T06:39:18.000Z",
+    "display_text_range": [
+      12,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090327801253835005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089968476790128640",
+          "start": 0,
+          "username": "leaf1loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090327801253835005",
+    "in_reply_to_user_id": "2089968476790128640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090018329012711629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaf1loveu 我也想说…好贵😢本来穿孔的钱就够贵了钉子也贵好讨厌哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090018329012711629",
+        "created_at": "2026-08-20T06:39:18.000Z",
+        "display_text_range": [
+          12,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090327801253835005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089968476790128640",
+              "start": 0,
+              "username": "leaf1loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090327801253835005",
+        "in_reply_to_user_id": "2089968476790128640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090018329012711629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaf1loveu 我也想说…好贵😢本来穿孔的钱就够贵了钉子也贵好讨厌哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089968476790128640",
+        "conversation_id": "2090018329012711629",
+        "created_at": "2026-08-19T10:09:34.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090018329012711629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090018329012711629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀耳钉好贵呀。我一直戴着基础钉。一只钛合金的普通的就要二十块钱。好贵好贵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中\n前世@magie0527\n同类随缘互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090327801253835005",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 39,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:53:23.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚。\n\n前世@leaf11loveu\n\nhttps://t.co/olDOaMTObs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "leaf11loveu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/leaf0911",
+                "end": 58,
+                "expanded_url": "http://t.me/leaf0911",
+                "start": 35,
+                "url": "https://t.co/olDOaMTObs"
+              }
+            ]
+          }
+        },
+        "id": "2089968476790128640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090309876899787148",
+        "name": "叶子大帝二世",
+        "pinned_tweet_id": "2090205299936227642",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089969151196442624/sh9OOA6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 179,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "leaf1loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

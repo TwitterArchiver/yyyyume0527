@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090488154042327380",
+    "created_at": "2026-08-20T20:37:34.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T21:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090538755702898887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090538755702898887",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090488154042327380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090488154042327380",
+        "created_at": "2026-08-20T20:37:34.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090538755702898887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090538755702898887",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090488154042327380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2090488154042327380",
+        "created_at": "2026-08-20T17:16:29.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090488154042327380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090488154042327380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一天我自杀。评论区会有超过十个退游关心我嘛。。。。我互关其实死了五个人了。。。大家都好难呀。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090538755702898887",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 46,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "INTJ的精神病和od频道.\n大学退学，农村穷蛆。雏见泽村民。长滨城主。豫章岛夷。crypto寄生虫。煤桶骑士。\n欢迎温良边缘人。有同类内容直fo。\n🈲过激健全品客男女拳。",
+        "id": "1445681460497694723",
+        "is_identity_verified": false,
+        "location": "南昌",
+        "most_recent_tweet_id": "2090488154042327380",
+        "name": "ritsuka",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445681460497694723/1786330998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146894247907328/yghvpj2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 357,
+          "like_count": 11167,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2959
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

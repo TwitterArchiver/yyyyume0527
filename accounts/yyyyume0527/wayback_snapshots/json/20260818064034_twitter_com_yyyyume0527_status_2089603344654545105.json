@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2089251963540292007",
+    "created_at": "2026-08-18T06:40:34.000Z",
+    "display_text_range": [
+      16,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089603344654545105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076280150044610560",
+          "start": 0,
+          "username": "Antares04_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089603344654545105",
+    "in_reply_to_user_id": "2076280150044610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089288943867203934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_8964 ！真的非常非常感谢科普哇，不然我完全不知道的啊啊😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2089251963540292007",
+        "created_at": "2026-08-18T06:40:34.000Z",
+        "display_text_range": [
+          16,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089603344654545105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076280150044610560",
+              "start": 0,
+              "username": "Antares04_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089603344654545105",
+        "in_reply_to_user_id": "2076280150044610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089288943867203934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_8964 ！真的非常非常感谢科普哇，不然我完全不知道的啊啊😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076280150044610560",
+        "conversation_id": "2089251963540292007",
+        "created_at": "2026-08-17T09:51:15.000Z",
+        "display_text_range": [
+          13,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T10:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089288943867203934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089225348814921728",
+              "start": 0,
+              "username": "yyyyume0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089288943867203934",
+        "in_reply_to_user_id": "2089225348814921728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089251963540292007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyume0527 一周内不要大批量关注人，也不要大批量收藏和点赞  ，平均每天保持10个赞左右，有点儿活人气就行了，过了一两周应该就好了，要不然太活跃      🐴会给你当AI的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中\n前世@magie0527\n同类互of大欢迎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089603344654545105",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 30,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵/提问箱↓/(这里是煜3.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "is_identity_verified": false,
+        "location": "＃心宿二",
+        "most_recent_tweet_id": "2089568529096012258",
+        "name": "煜",
+        "pinned_tweet_id": "2083950935563489667",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076280150044610560/1783932039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088460218862841856/QujtWWCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 56,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/7kJ3zIrxwy",
+        "username": "Antares04_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
