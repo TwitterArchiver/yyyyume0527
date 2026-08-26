@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2091008130830467091",
+    "created_at": "2026-08-22T03:42:42.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091008130830467091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2088447669056499712",
+          "start": 3,
+          "username": "AmeHanafogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091008130830467091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090612727551312122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeHanafogfox: 你们磕药了之后会胡言乱语，可是我胡言乱语从不需要磕药，当我拿起手机敲击键盘的时候我的底层代码自动触发了，我表示与生俱来的天赋无可比拟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2091008130830467091",
+        "created_at": "2026-08-22T03:42:42.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091008130830467091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2088447669056499712",
+              "start": 3,
+              "username": "AmeHanafogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091008130830467091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090612727551312122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeHanafogfox: 你们磕药了之后会胡言乱语，可是我胡言乱语从不需要磕药，当我拿起手机敲击键盘的时候我的底层代码自动触发了，我表示与生俱来的天赋无可比拟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088447669056499712",
+        "conversation_id": "2090612727551312122",
+        "created_at": "2026-08-21T01:31:30.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090612727551312122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090612727551312122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们磕药了之后会胡言乱语，可是我胡言乱语从不需要磕药，当我拿起手机敲击键盘的时候我的底层代码自动触发了，我表示与生俱来的天赋无可比拟。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091008130830467091",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 53,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T02:09:14.000Z",
+        "description": "阿间/雨原花咲\nftx\n重生2.0\n唯一的挚爱/耀阳/月@kamizakajuukou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "kamizakajuukou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 0,
+                "url": "https://t.co/duHV2zX82H"
+              }
+            ]
+          }
+        },
+        "id": "2088447669056499712",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2090995270482112597",
+        "name": "猫不理茶茶罐头2.0",
+        "pinned_tweet_id": "2088449819673268406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088447669056499712/1786759959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089424509204094976/IUVFy1_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 42,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/duHV2zX82H",
+        "username": "AmeHanafogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

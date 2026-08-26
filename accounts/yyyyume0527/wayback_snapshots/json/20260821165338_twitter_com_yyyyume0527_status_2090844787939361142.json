@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090844787939361142",
+    "created_at": "2026-08-21T16:53:38.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090844787939361142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1850329593728917504",
+          "start": 3,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090844787939361142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090788826419806597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tristesse_demer: 想象一下我是妳的女兒 每天快中午才醒 一起床就開始嗑藥細度割手玩手機電腦到凌晨三四點才睡覺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090844787939361142",
+        "created_at": "2026-08-21T16:53:38.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090844787939361142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1850329593728917504",
+              "start": 3,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090844787939361142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090788826419806597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tristesse_demer: 想象一下我是妳的女兒 每天快中午才醒 一起床就開始嗑藥細度割手玩手機電腦到凌晨三四點才睡覺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2090788826419806597",
+        "created_at": "2026-08-21T13:11:15.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090788826419806597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090788826419806597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是妳的女兒 每天快中午才醒 一起床就開始嗑藥細度割手玩手機電腦到凌晨三四點才睡覺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090844787939361142",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 51,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池 泛🚪88｜188｜520｜888（歡迎隨意打賞）沒過🚪不閒聊 不賣不約 酗酒嗑藥很溫良 非國人約的別找我我雙相精分自傷 傻逼死好了 查成分回fo\n匿名問👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tristesse_demer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tristesse_demer",
+                "start": 0,
+                "url": "https://t.co/VKVrwx3qbd"
+              }
+            ]
+          }
+        },
+        "id": "1850329593728917504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090797236347424847",
+        "name": "離離池上喵",
+        "pinned_tweet_id": "2078689056666333344",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850329593728917504/1756528813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089344460782194688/JQksYtPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 447,
+          "like_count": 5820,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/VKVrwx3qbd",
+        "username": "Tristesse_demer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

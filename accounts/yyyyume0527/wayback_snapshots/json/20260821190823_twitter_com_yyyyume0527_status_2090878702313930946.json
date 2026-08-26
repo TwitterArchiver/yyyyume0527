@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2090878702313930946",
+    "created_at": "2026-08-21T19:08:23.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090878702313930946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sugarsast/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Sugarsast/status/2090732604719063357",
+          "start": 12,
+          "url": "https://t.co/SvE83JMCAy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090878702313930946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090732604719063357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来给这个搬到抖去😂🤩 https://t.co/SvE83JMCAy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2090878702313930946",
+        "created_at": "2026-08-21T19:08:23.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090878702313930946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sugarsast/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Sugarsast/status/2090732604719063357",
+              "start": 12,
+              "url": "https://t.co/SvE83JMCAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090878702313930946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090732604719063357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来给这个搬到抖去😂🤩 https://t.co/SvE83JMCAy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889861257",
+        "conversation_id": "2090732604719063357",
+        "created_at": "2026-08-21T09:27:51.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090732604719063357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090732604719063357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19360,
+          "like_count": 231,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉嗑药逼一个焚决，普瑞巴林的\n代谢是完全不经过肝并且几乎不会被代谢， 意思是你od完尿出去的尿90都是已普瑞巴林的原型出去的，完全可以把尿收集起来喝了以达到无限循环"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090878702313930946",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 52,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZykI07｜Q:3673124663｜我的tg:https://t.co/1e7qTaQ9VS｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 50,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 27,
+                "url": "https://t.co/kXreZykI07"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 92,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 69,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090870610876641344",
+        "name": "神户盐🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889861257/1780258514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090704079244955648/09gAhiPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1193,
+          "like_count": 8932,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2997
+        },
+        "url": "https://t.co/1e7qTaQ9VS",
+        "username": "Sugarsast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

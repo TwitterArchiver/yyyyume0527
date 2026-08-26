@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089225348814921728",
+    "conversation_id": "2091155228049490197",
+    "created_at": "2026-08-22T13:33:08.000Z",
+    "display_text_range": [
+      11,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091156721800741034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087636528633982976",
+          "start": 0,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091156721800741034",
+    "in_reply_to_user_id": "2087636528633982976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091155228049490197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@67De_dian 因为小六点也很温柔，对人特别真诚有耐心还很有趣，你真的是特别特别好的人呀，小六点也要幸福喔🫂🫂🫂🫂抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091153442408398848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVE-fmWgAAG5lJ.jpg",
+        "width": 491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089225348814921728",
+        "conversation_id": "2091155228049490197",
+        "created_at": "2026-08-22T13:33:08.000Z",
+        "display_text_range": [
+          11,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091156721800741034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087636528633982976",
+              "start": 0,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091156721800741034",
+        "in_reply_to_user_id": "2087636528633982976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091155228049490197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@67De_dian 因为小六点也很温柔，对人特别真诚有耐心还很有趣，你真的是特别特别好的人呀，小六点也要幸福喔🫂🫂🫂🫂抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091153442408398848"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091155228049490197",
+        "created_at": "2026-08-22T13:27:12.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091155228049490197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et9OsIgH2o",
+              "end": 167,
+              "expanded_url": "https://x.com/67De_dian/status/2091155228049490197/photo/1",
+              "media_key": "3_2091153442408398848",
+              "start": 144,
+              "url": "https://t.co/et9OsIgH2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091155228049490197",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091153442408398848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个认识了很多年知道我颗药 系度的亲友\n即使不o但是也愿意听我讲药理、陪我过生日呢。真的、真的好幸福\n喜欢你。为何我们的痛苦总是在同时间如此的相似呢\n为何过去是在那么痛苦的环境而认识的呢\n既贪恋于你的相识，又为你我的处境而感到痛苦\n从始至终祈祷着\n下辈子下下辈子。请你到更幸福的地方去吧 https://t.co/et9OsIgH2o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T05:40:29.000Z",
+        "description": "=小梦2.0 互关寻回中。前世@magie0527\n同类随缘互fo，纯绿不线下不聊骚不恋爱我性冷淡，陪聊情绪价值或游戏ok",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "magie0527"
+              }
+            ]
+          }
+        },
+        "id": "2089225348814921728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091156721800741034",
+        "name": "夢夢夢夢梦2.0（互fo寻回）",
+        "pinned_tweet_id": "2089246051475886174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089225348814921728/1786945626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 54,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "yyyyume0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091155491581776207",
+        "name": "绝望_6De点 2.0",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 241,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
