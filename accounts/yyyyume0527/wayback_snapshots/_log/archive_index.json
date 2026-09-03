@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T17:33:05",
+  "last_updated": "2026-09-03T17:42:16",
   "html": {
     "https://web.archive.org/web/20260817163730if_/https://twitter.com/yyyyume0527/status/2089391178508861931": {
       "status": "done",
@@ -247,8 +247,8 @@
       "last_updated": "2026-08-26T17:28:47"
     },
     "https://web.archive.org/web/20260822031343if_/https://twitter.com/yyyyume0527/status/2091000838571647292": {
-      "status": "failed",
-      "last_updated": "2026-08-26T17:28:47",
+      "status": "done",
+      "last_updated": "2026-09-03T17:42:15",
       "last_reason": "HTML 下载失败：ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822031343if_/https://twitter.com/yyyyume0527/status/2091000838571647292 (Caus",
       "miss_count": 1
     },
@@ -257,8 +257,8 @@
       "last_updated": "2026-08-26T17:28:47"
     },
     "https://web.archive.org/web/20260822023459if_/https://twitter.com/yyyyume0527/status/2090991092900732985": {
-      "status": "failed",
-      "last_updated": "2026-08-26T17:28:47",
+      "status": "done",
+      "last_updated": "2026-09-03T17:42:14",
       "last_reason": "HTML 下载失败：ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260822023459if_/https://twitter.com/yyyyume0527/status/2090991092900732985 (Caus",
       "miss_count": 1
     },
@@ -701,7 +701,9 @@
         "20260822181040_twitter_com_yyyyume0527_status_2091226562226278571.json",
         "20260822182820_twitter_com_yyyyume0527_status_2091231008255603179.json",
         "20260822190346_twitter_com_yyyyume0527_status_2091239927145238653.json",
-        "20260822191517_twitter_com_yyyyume0527_status_2091242825589617088.json"
+        "20260822191517_twitter_com_yyyyume0527_status_2091242825589617088.json",
+        "20260822023459_twitter_com_yyyyume0527_status_2090991092900732985.json",
+        "20260822031343_twitter_com_yyyyume0527_status_2091000838571647292.json"
       ],
       "last_updated": "2026-08-22T17:50:14"
     },
@@ -2170,6 +2172,28 @@
         ]
       },
       "last_updated": "2026-08-26T17:30:52"
+    },
+    "20260822023459_twitter_com_yyyyume0527_status_2090991092900732985.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-03T17:42:15"
+    },
+    "20260822031343_twitter_com_yyyyume0527_status_2091000838571647292.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2089227047797448705/Tdost0sA_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-03T17:42:15"
     }
   }
 }
